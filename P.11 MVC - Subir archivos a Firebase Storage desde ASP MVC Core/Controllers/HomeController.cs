@@ -28,7 +28,7 @@ namespace P._11_MVC___Subir_archivos_a_Firebase_Storage_desde_ASP_MVC_Core.Contr
             string email = "ana.saavedra@catolica.edu.sv";
             string clave = "";
             string ruta = "aspstoragefile.appspot.com";
-            string api_key = "AIzaSyAv_g3zhXKb7eofQCfERUAPwTmRKVKEI9Q";
+            string api_key = "";
 
             var auth = new FirebaseAuthProvider(new FirebaseConfig(api_key));
             var autenticarFirebase = await auth.SignInWithEmailAndPasswordAsync(email, clave);
