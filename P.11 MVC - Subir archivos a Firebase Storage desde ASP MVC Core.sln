@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P.11 MVC - Subir archivos a Firebase Storage desde ASP MVC Core", "P.11 MVC - Subir archivos a Firebase Storage desde ASP MVC Core\P.11 MVC - Subir archivos a Firebase Storage desde ASP MVC Core.csproj", "{D175B2FD-A8DC-4B72-B3FE-369E9E83DA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D175B2FD-A8DC-4B72-B3FE-369E9E83DA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D175B2FD-A8DC-4B72-B3FE-369E9E83DA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D175B2FD-A8DC-4B72-B3FE-369E9E83DA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D175B2FD-A8DC-4B72-B3FE-369E9E83DA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1152AF5-D29E-4CFD-9826-24974C1AA1A6}
+	EndGlobalSection
+EndGlobal
